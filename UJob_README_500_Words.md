@@ -80,8 +80,8 @@ provides version control and project transparency, while GitHub Actions
 can provide automated build and test verification. Together, these
 practices support maintainable, testable and professionally managed
 software development.
-## 6. YouTube Video 
-https://youtube.com/shorts/275qVG1RRBc?si=hVR13U7CFY6GCEUO
+## 6. YouTube video 
+https://youtube.com/shorts/ZltRqSxAAE4?si=6Ek58sFybAkSL1Ny
 ## References
 
 Android Developers (2026a) *App manifest overview*. Available at:
