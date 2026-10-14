@@ -82,6 +82,9 @@ practices support maintainable, testable and professionally managed
 software development.
 ## 6. YouTube video 
 https://youtube.com/shorts/ZltRqSxAAE4?si=6Ek58sFybAkSL1Ny
+
+# 7. Screenshots of application functionality 
+
 ## References
 
 Android Developers (2026a) *App manifest overview*. Available at:
