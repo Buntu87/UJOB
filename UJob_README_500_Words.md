@@ -1,3 +1,4 @@
+<img width="720" height="1600" alt="Screenshot_20261014_100201_WhatsApp" src="https://github.com/user-attachments/assets/a1640126-19a1-4458-a910-45dbab9b768a" />
 # UJob Android Application -- Project README
 
 ## 1. Purpose of the Application
@@ -84,6 +85,16 @@ software development.
 https://youtube.com/shorts/ZltRqSxAAE4?si=6Ek58sFybAkSL1Ny
 
 # 7. Screenshots of application functionality 
+![Uploading Screenshot_20261014_100423_WhatsApp.jpg…]()
+![Uploading Screenshot_20261014_100409_WhatsApp.jpg…]()
+![Uploading Screenshot_20261014_100352_WhatsApp.jpg…]()
+![Uploading Screenshot_20261014_100339_WhatsApp.jpg…]()
+![Uploading Screenshot_20261014_100312_WhatsApp.jpg…]()
+![Uploading Screenshot_20261014_100255_WhatsApp.jpg…]()
+![Uploading Screenshot_20261014_100201_WhatsApp.jpg…]()
+
+
+
 
 ## References
 
